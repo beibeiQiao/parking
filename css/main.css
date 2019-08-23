@@ -1,0 +1,29 @@
+/* CSS Document */
+body{
+	background-image:url(../images/5ac47faa1208c.jpg);
+	background-repeat:no-repeat;
+	background-size:100% 100%; 
+}
+.header{
+height:100px;
+background: #FFCC99;
+color: #FFFFFF;
+padding-top:5px;
+}
+.menu{
+	width:500px; 
+	height:300px;
+	margin:0 auto;
+	margin-top:80px;
+	background-color:#FFFFFF;
+	filter:alpha(Opacity=80);-moz-opacity:0.8;opacity: 0.8
+}
+.button{
+width: 120px;
+background-color:#FFCC99;
+line-height: 30px;
+font-size: 20px;
+text-align: center;
+font-weight: bold;
+color:#FFFFFF;
+}

@@ -1,0 +1,20 @@
+/* CSS Document */
+body{
+	background-image:url(../images/rawpixel-722816-unsplash.jpg);
+	background-repeat:no-repeat;
+	background-size:100% 100%; 
+}
+.header{
+height:100px;
+background: #FFCC99;
+color: #FFFFFF;
+padding-top:5px;
+}
+.menu{
+	width:500px; 
+	height:350px;
+	margin:0 auto;
+	margin-top:80px;
+	background-color:#FFFFFF;
+}
+
